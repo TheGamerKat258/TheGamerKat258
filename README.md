@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheGamerKat258
 - 👀 I’m interested in learning more about life
 - 🌱 I’m currently learning Python, PHP and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Twitch... LOL
+- 📫 How to reach me... ... ... maybe on Instagram :(
 
 <!---
 TheGamerKat258/TheGamerKat258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
